@@ -1,0 +1,131 @@
+{
+    "region": "Kanto",
+    "list": [
+        {
+            "name": "Bulbasaur",
+            "number": "#001",
+            "img": "./src/imagens/bulbasaur.gif",
+            "typeName": [
+                "tipo grama",
+                "tipo veneno"
+            ],
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "description": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger"
+        },
+        {
+            "name": "Ivysaur",
+            "number": "#002",
+            "img": "./src/imagens/ivysaur.gif",
+            "typeName": [
+                "tipo grama",
+                "tipo veneno"
+            ],
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
+        },
+        {
+            "name": "Venusaur",
+            "number": "#003",
+            "img": "./src/imagens/venusaur.gif",
+            "typeName": [
+                "tipo grama",
+                "tipo veneno"
+            ],
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "description": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
+        },
+        {
+            "name": "Charmander",
+            "number": "#004",
+            "img": "./src/imagens/charmander.gif",
+            "typeName": [
+                "tipo fogo"
+            ],
+            "type": [
+                "Fire"
+            ],
+            "description": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail."
+        },
+        {
+            "name": "Charmeleon",
+            "number": "#005",
+            "img": "./src/imagens/charmeleon.gif",
+            "typeName": [
+                "tipo fogo"
+            ],
+            "type": [
+                "Fire"
+            ],
+            "description": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws."
+        },
+        {
+            "name": "Charizard",
+            "number": "#006",
+            "img": "./src/imagens/charizard.gif",
+            "typeName": [
+                "tipo fogo"
+            ],
+            "type": [
+                "Fire"
+            ],
+            "description": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames."
+        },
+        {
+            "name": "Squirtle",
+            "number": "#007",
+            "img": "./src/imagens/squirtle.gif",
+            "typeName": [
+                "tipo agua"
+            ],
+            "type": [
+                "Water"
+            ],
+            "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force."
+        },
+        {
+            "name": "Wartortle",
+            "number": "#008",
+            "img": "./src/imagens/wartortle.gif",
+            "typeName": [
+                "tipo agua"
+            ],
+            "type": [
+                "Water"
+            ],
+            "description": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old."
+        },
+        {
+            "name": "Blastoise",
+            "number": "#009",
+            "img": "./src/imagens/blastoise.gif",
+            "typeName": [
+                "tipo agua"
+            ],
+            "type": [
+                "Water"
+            ],
+            "description": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old."
+        },
+        {
+            "name": "Caterpie",
+            "number": "#010",
+            "img": "./src/imagens/caterpie.gif",
+            "typeName": [
+                "tipo inseto"
+            ],
+            "type": [
+                "Bug"
+            ],
+            "description": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies."
+        }
+    ]
+}
